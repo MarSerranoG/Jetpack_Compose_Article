@@ -48,7 +48,7 @@ Column(
     Text(
         stringResource(id = R.string.header),
         textAlign = TextAlign.Justify,
-        fontSize = 24.sp,
+        fontSize = 20.sp,
         modifier = Modifier.padding(16.dp)
     )
     Text(
